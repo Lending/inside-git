@@ -1,7 +1,7 @@
 package it.prisma.academy.git;
 
 /*
- * 
+ * Questa è la prima classe
  * 
  */
 public class PrimaClasse {
